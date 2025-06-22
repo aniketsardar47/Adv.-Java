@@ -1,6 +1,6 @@
 # Mentor Allocation System
 
-A simple Java Swing-based desktop application to manage mentor allocations for students. The application provides a user-friendly interface to input, view, and assign mentors to students.
+A simple Java Swing-based desktop application to manage mentor allocations for students. The application provides a user-friendly interface to input, view, and assign mentors to students randomly.
 
 ## 📌 Features
 
@@ -30,3 +30,13 @@ A simple Java Swing-based desktop application to manage mentor allocations for s
    ```bash
    git clone https://github.com/aniketsardar47/Adv.-Java.git
    cd Adv.-Java/Mentor-Allocation
+   
+2. Compile the Java files: 
+   ```bash
+    javac *.java
+   
+3. Run the application: 
+   ```bash
+   java MentorAllocation
+Ensure you're using a JDK that supports Swing (like Oracle JDK or OpenJDK) And itextpdf library is properly added in the com. folder.
+And change the Student and Mentor list.
