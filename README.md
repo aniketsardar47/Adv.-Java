@@ -1,2 +1,2 @@
 # Adv.-Java
-This repo contains projects on using Advanced Java technologies like Swing, JDBC etc.
+This repo contains projects on Advanced Java technologies like Swing, JDBC etc.
